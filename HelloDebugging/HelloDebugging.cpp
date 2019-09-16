@@ -13,7 +13,7 @@ void doWork()
 
 	const list <int> c2 = c1;
 	const int& i = c2.front();
-	const int& j = c2.front();
+	const int& j = c2.back();
 	cout << "The first element is " << i << endl;
 	cout << "The second element is " << j << endl;
 
