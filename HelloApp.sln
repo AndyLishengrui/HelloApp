@@ -9,7 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloDebugging", "HelloDebu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{601B98D2-F68D-44CD-ACDA-29C0D4E1ECCD}"
 	ProjectSection(SolutionItems) = preProject
-		Readme\Visual Studio 2019快速入门(0916).docx = Readme\Visual Studio 2019快速入门(0916).docx
+		Readme\Visual Studio 2019快速入门(Andy2019).docx = Readme\Visual Studio 2019快速入门(Andy2019).docx
+		Readme\Visual Studio 快速入门(Andy2019).pptx = Readme\Visual Studio 快速入门(Andy2019).pptx
 	EndProjectSection
 EndProject
 Global
